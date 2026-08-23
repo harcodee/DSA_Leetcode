@@ -31,4 +31,16 @@ GOAL : To complete 100 DSA questions in 30 days
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/harcodee/DSA-100/tree/main/0394-decode-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/harcodee/DSA-100/tree/main/0394-decode-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/harcodee/DSA-100/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
