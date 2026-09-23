@@ -6,6 +6,7 @@ GOAL : To complete 100 DSA questions in 30 days
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/harcodee/DSA-100/tree/main/0001-two-sum/) | Easy |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -43,4 +44,8 @@ GOAL : To complete 100 DSA questions in 30 days
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/harcodee/DSA-100/tree/main/0394-decode-string/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/harcodee/DSA-100/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
