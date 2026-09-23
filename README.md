@@ -7,10 +7,12 @@ GOAL : To complete 100 DSA questions in 30 days
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harcodee/DSA-100/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -48,4 +50,17 @@ GOAL : To complete 100 DSA questions in 30 days
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harcodee/DSA-100/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
