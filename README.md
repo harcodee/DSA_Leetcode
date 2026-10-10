@@ -7,6 +7,7 @@ GOAL : To complete 100 DSA questions in 30 days
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harcodee/DSA-100/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/harcodee/DSA-100/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
 ## Math
@@ -17,6 +18,7 @@ GOAL : To complete 100 DSA questions in 30 days
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/harcodee/DSA-100/tree/main/0053-maximum-subarray/) | Medium |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -63,4 +65,8 @@ GOAL : To complete 100 DSA questions in 30 days
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/harcodee/DSA-100/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
