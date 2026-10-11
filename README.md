@@ -7,6 +7,7 @@ GOAL : To complete 100 DSA questions in 30 days
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harcodee/DSA-100/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/harcodee/DSA-100/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/harcodee/DSA-100/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
@@ -64,9 +65,14 @@ GOAL : To complete 100 DSA questions in 30 days
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/harcodee/DSA-100/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harcodee/DSA-100/tree/main/0053-maximum-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/harcodee/DSA-100/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
