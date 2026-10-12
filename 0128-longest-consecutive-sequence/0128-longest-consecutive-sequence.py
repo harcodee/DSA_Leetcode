@@ -1,22 +1,18 @@
 
-class Solution(object):
+class Solution:
     def longestConsecutive(self, nums):
-        if not nums:
-            return 0
+        num_set = set(nums)
+        longest = 0
 
-        arr = sorted(nums)
-        counter = 1
-        longest = 1
+        for num in num_set:
+            if num - 1 not in num_set:
+                current = num
+                count = 1
 
-        for i in range(1, len(arr)):
-            if arr[i] == arr[i - 1]:
-                continue
+                while current + 1 in num_set:
+                    current += 1
+                    count += 1
 
-            if arr[i] == arr[i - 1] + 1:
-                counter += 1
-            else:
-                counter = 1
-
-            longest = max(longest, counter)
+                longest = max(longest, count)
 
         return longest
