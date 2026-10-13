@@ -11,6 +11,7 @@ GOAL : To complete 100 DSA questions in 30 days
 | [0053-maximum-subarray](https://github.com/harcodee/DSA-100/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/harcodee/DSA-100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/harcodee/DSA-100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ GOAL : To complete 100 DSA questions in 30 days
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/harcodee/DSA-100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/harcodee/DSA-100/tree/main/1140-stone-game-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ GOAL : To complete 100 DSA questions in 30 days
 | [0001-two-sum](https://github.com/harcodee/DSA-100/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harcodee/DSA-100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/harcodee/DSA-100/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/harcodee/DSA-100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
